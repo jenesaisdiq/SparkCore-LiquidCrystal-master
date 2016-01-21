@@ -37,7 +37,7 @@
  http://www.arduino.cc/en/Tutorial/LiquidCrystal
  */
 
-#include "LiquidCrystal.h"
+#include "LiquidCrystal/LiquidCrystal.h"
 
 // Make sure to update these to match how you've wired your pins.
 // pinout on LCD [RS, EN, D4, D5, D6, D7];
